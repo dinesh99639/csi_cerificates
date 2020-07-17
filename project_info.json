@@ -1,8 +1,8 @@
 {
-	"name": "Github Projects",
+	"name": "CSI Certificates Generator",
 	"icon": "",
-	"desc": "This website is used to manage all social media at one place and list all github projects at one place.",
-	"tech": ["HTML", "CSS", "JavaScript", "jQuery", "BootStrap"],
+	"desc": "This website is used Generate bulk certificates for the CSI events.",
+	"tech": ["HTML", "CSS", "JavaScript", "jQuery", "BootStrap", "PHP", "MySQL"],
 
 	"from": "",
 	"to": ""
