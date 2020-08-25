@@ -1,5 +1,6 @@
 {
 	"name": "CSI Certificates Generator",
+	"full_name": "dinesh99639/csi_cerificates",
 	"icon": "",
 	"desc": "This website is used Generate bulk certificates for the CSI events.",
 	"tech": ["HTML", "CSS", "JavaScript", "jQuery", "BootStrap", "PHP", "MySQL"],
